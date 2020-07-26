@@ -1,6 +1,4 @@
 # Author: Hirak J. Kashyap
-# For evaluation purposes only, please do not share/distribute without permission
-# Will be made publicly available after accepted for publication
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
