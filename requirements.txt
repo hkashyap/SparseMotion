@@ -1,0 +1,8 @@
+scikit-image
+pypng
+path.py
+tensorboardX
+tensorflow
+cupy-cuda90
+tqdm
+opencv-python
